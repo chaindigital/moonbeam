@@ -201,7 +201,7 @@ git fetch
 
 sudo apt install cmake -y
 
-sudo git checkout v0.34.1
+sudo git checkout v0.41.1
 
 rustup install nightly-2023-05-22
 
